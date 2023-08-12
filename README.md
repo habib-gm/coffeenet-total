@@ -19,14 +19,14 @@ With Coffeenet, you'll be equipped to tackle these threats head-on and take proa
 Our robust deep learning models drive Coffeenet's accurate disease detection process:
 
 1. **coffee_leaf_binary_network_efficientnetv2_b0_adam0_0003_batch128**: Before delving into disease detection, this model classifies whether an object is a coffee leaf or not.
-   - [Model Details](machine_learning_models/coffee_leaf_binary_network_efficientnetv2_b0_adam0_0003_batch128.tflite)
+   - [Model Details](https://github.com/habib-gm/coffeenet-total/tree/master/machine%20learning%20models/coffee_leaf_binary_network_efficientnetv2_b0_adam0_0003_batch128.tflite)
 
 2. **leaf_segmentation and segmentation_model**: These heroes handle leaf segmentation, isolating the leaf from the background, and skillfully detecting and segmenting the disease-affected areas.
-   - [Leaf Segmentation Model](machine_learning_models/leaf_segmentation.h5)
-   - [Segmentation Model](machine_learning_models/segmentation_model.h5)
+   - [Leaf Segmentation Model](https://github.com/habib-gm/coffeenet-total/tree/master/machine%20learning%20models/leaf_segmentation.h5)
+   - [Segmentation Model](https://github.com/habib-gm/coffeenet-total/tree/master/machine%20learning%20models/segmentation_model.h5)
 
 3. **class_new_5**: Once the disease-affected area is isolated, this model identifies the specific coffee leaf disease with remarkable accuracy.
-
+   - [Classification Model](https://github.com/habib-gm/coffeenet-total/tree/master/machine%20learning%20models/class_new_5.h5)
 ## Intuitive Mobile App and Robust Backend
 
 Experience Coffeenet's power through our user-friendly mobile app, crafted with Flutter's cross-platform magic. The app follows best practices, featuring Domain-Driven Design (DDD) and BLoC for efficient state management. Its sleek design and intuitive navigation provide a seamless experience for both iOS and Android users.
