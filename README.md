@@ -40,7 +40,7 @@ But that's not all — the backend, developed using Django and Django Rest Frame
 
 ## Exploring the Project Origins
 
-Coffeenet is the brainchild of a dedicated intern team at the Ethiopian Artificial Intelligence Center. Our gratitude goes to FREX for contributing invaluable leaf disease data that fuels the Coffeenet engine.
+Coffeenet is the brainchild of a dedicated team at the Ethiopian Artificial Intelligence Center. Our gratitude goes to FREX for contributing invaluable leaf disease data that fuels the Coffeenet engine.
 
 ## Getting Started with Coffeenet
 
